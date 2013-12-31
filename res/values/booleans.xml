@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="swipepad_pad_cursor_rotate_clockwise">false</bool>
+
+</resources>

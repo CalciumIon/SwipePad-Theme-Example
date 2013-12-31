@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="swipepad_pad_cursor_radius">60dp</dimen>
+    <dimen name="swipepad_pad_grid_spacing">6dp</dimen>
+    <dimen name="swipepad_portal_rect_padding_top">4dp</dimen>
+    <dimen name="swipepad_portal_rect_padding_bottom">4dp</dimen>
+
+</resources>
