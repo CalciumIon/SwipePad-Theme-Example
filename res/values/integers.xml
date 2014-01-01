@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <integer name="swipepad_pad_cursor_period">1500</integer>
+    <integer name="swipepad_pad_cursor_period">3000</integer>
 
 </resources>
