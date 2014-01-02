@@ -15,13 +15,76 @@ At the end of the day, your theme would be distributed as an Android app. If you
  
 ## Customizable Elements
 
-### Drawables
+### Drawables (res/drawables-\*/\*)
 
-### Dimensions
+* swipepad\_icon\_allapps
 
-### Integers
+* swipepad\_icon\_contextpanel
+
+* swipepad\_icon\_home
+
+* swipepad\_icon\_quickpost
+
+* swipepad\_group\_background
+
+* swipepad\_group\_icon\_add
+
+* swipepad\_pad\_background
+
+* swipepad\_pad\_cursor
+
+* swipepad\_pad\_grid\_background
+
+* swipepad\_portal\_rect
+
+* swipepad\_portal\_rect\_empty
+
+* swipepad\_portal\_rect\_hold
+
+* swipepad\_portal\_rect\_hover
+
+* swipepad\_portal\_rect\_selector
+
+* swipepad\_portal\_ring
+
+* swipepad\_portal\_ring\_empty
+
+* swipepad\_portal\_ring\_hold
+
+* swipepad\_portal\_ring\_hover
+
+* swipepad\_portal\_ring\_selector
+
+### Colors (res/values/colors.xml)
+
+* swipepad\_group\_item\_text\_color
+
+* swipepad\_group\_title\_color
+
+* swipepad\_pad\_empty\_item\_text\_color
+
+* swipepad\_pad\_item\_text\_color
+
+* swipepad\_pad\_title\_color
+
+
+### Dimensions (res/values/dimens.xml)
+
+* swipepad\_pad\_cursor\_radius
+
+* swipepad\_pad\_grid\_spacing
+
+* swipepad\_portal\_rect\_padding\_top
+
+* swipepad\_portal\_rect\_padding\_bottom
+
+### Integers (res/values/integers.xml)
+
+* swipepad\_pad\_cursor\_period
 
 ### Boolean
+
+* swipepad\_pad\_cursor\_rotate\_clockwise
 
 ## Preview
 
