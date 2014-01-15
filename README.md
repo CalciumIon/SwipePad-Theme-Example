@@ -15,6 +15,8 @@ At the end of the day, your theme would be distributed as an Android app. If you
  
 ## Customizable Elements
 
+SwipePad will try to read following resources from your app, if they are not presented, the corresponding elements in the default theme will be used.
+
 ### Drawables (res/drawables-\*/\*)
 
 * swipepad\_icon\_allapps
@@ -66,7 +68,6 @@ At the end of the day, your theme would be distributed as an Android app. If you
 * swipepad\_pad\_item\_text\_color
 
 * swipepad\_pad\_title\_color
-
 
 ### Dimensions (res/values/dimens.xml)
 
