@@ -49,6 +49,8 @@ SwipePad will try to read following resources from your app, if they are not pre
 
 * swipepad\_portal\_rect\_selector
 
+* swipepad\_portal\_rect\_empty\_selector
+
 * swipepad\_portal\_ring
 
 * swipepad\_portal\_ring\_empty
@@ -58,6 +60,8 @@ SwipePad will try to read following resources from your app, if they are not pre
 * swipepad\_portal\_ring\_hover
 
 * swipepad\_portal\_ring\_selector
+
+* swipepad\_portal\_ring\_empty\_selector
 
 ### Colors (res/values/colors.xml)
 
